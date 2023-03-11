@@ -111,3 +111,7 @@ dist
 
 # Misc
 .DS_Store
+
+# Added by cargo
+
+/target
