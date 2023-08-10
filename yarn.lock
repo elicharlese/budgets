@@ -3015,10 +3015,10 @@ typedoc-plugin-param-names@^3.1.0:
   resolved "https://registry.yarnpkg.com/typedoc-plugin-param-names/-/typedoc-plugin-param-names-3.1.0.tgz#ad7f8e70bfebbc4a23bf59373e99e6f11d7943fc"
   integrity sha512-9hksXV6jmvzK6rUiwbo5tKRCISOcU40GHh8MvR6boYtfKuZv57FVRpsZUJ/bhdu1jl8dk3Xz8BKKm/Mu47Jt0Q==
 
-typedoc-plugin-rename-defaults@^0.4.0:
-  version "0.4.0"
-  resolved "https://registry.yarnpkg.com/typedoc-plugin-rename-defaults/-/typedoc-plugin-rename-defaults-0.4.0.tgz#9739bb87ce7c084d7d48feb485ede4d4014a9b49"
-  integrity sha512-7m7MbNZKcxCA4Z+0MW06sFEmuQ+he1xfc+rLRtvvQcQypPTd3fgFmkEJKVu42t8mONC+kKS/WkbmqwzsiqI1YQ==
+typedoc-plugin-rename-defaults@^0.6.5:
+  version "0.6.5"
+  resolved "https://registry.yarnpkg.com/typedoc-plugin-rename-defaults/-/typedoc-plugin-rename-defaults-0.6.5.tgz#4c6bb17ae3461cc5cc4cdaabc6f5d5f69be48131"
+  integrity sha512-DwkgwRMxgu3UrDR3VUAdnF9jYzM6p7rw6UcVIh4MD7yjEmFDR8WWyOlk6oYgELmRYHxTDx0f0GK6iSgoxSh/Qw==
 
 typedoc@^0.22.15:
   version "0.22.18"
